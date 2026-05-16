@@ -24,7 +24,3 @@ mkdir -p ~/.kaggle && echo KGAT_... > ~/.kaggle/access_token && chmod 600 ~/.kag
 
 jupyter nbconvert --to notebook --execute clustering_physical_activity.ipynb --inplace
 ```
-
-## Лидерборд
-
-![Leaderboard](./leaderboard.png)
